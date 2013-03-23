@@ -4,7 +4,7 @@ public class maroto {
 
 		System.out.println("Maceta");
 		System.out.println("Maroto");
-		System.out.println("Comanda");
+		System.out.println("Comandaxpto");
 
 	}
 }
